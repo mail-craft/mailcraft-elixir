@@ -1,7 +1,7 @@
 defmodule MailCraft.MixProject do
   use Mix.Project
 
-  @version "0.1.0"
+  @version "1.0.0"
   @source_url "https://github.com/mail-craft/mailcraft-elixir"
 
   def project do
